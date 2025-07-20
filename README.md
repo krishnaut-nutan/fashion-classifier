@@ -1,9 +1,15 @@
+📦 Full Project on Kaggle
+👉 Check full source code, model files, and all outputs on Kaggle
+[🔗 View Full Project on Kaggle](https://www.kaggle.com/code/newton62/codemonk-machine-learning-intern-assignment) – Includes code, models & outputs.
 
-## 📊 Exploratory Data Analysis (EDA)
-Click below to view the full interactive EDA report generated from the Kaggle Notebook:
+This includes: 
 
-👉 [Fashion EDA Report (HTML)](https://storage.googleapis.com/kaggle-script-versions/251441191/output/fashion_eda_report.html?...your_query_here...)
+📄 Complete source code
 
-<a href="https://storage.googleapis.com/kaggle-script-versions/251441191/output/fashion_eda_report.html?...your_query_here..." target="_blank">
-  <img src="https://img.shields.io/badge/View%20EDA%20Report-HTML-blue?style=for-the-badge" alt="View EDA Report">
-</a>
+📊 Output reports
+
+🧠 Trained model files
+
+📁 Processed data files
+
+[🔗 View Full Project on Kaggle](https://www.kaggle.com/code/newton62/codemonk-machine-learning-intern-assignment) – Includes code, models & outputs.
